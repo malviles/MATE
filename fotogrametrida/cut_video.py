@@ -16,7 +16,7 @@ def capture_frames(video_path):
         if frame_count % interval == 0:
             now = datetime.datetime.now()
             formatted_date = now.strftime("%Y-%m-%d_%H-%M-%S")
-            filename = f'captura_{str(formatted_date)}.jpg'
+            filename = f'fotos/captura_{str(formatted_date)}.jpg'
             print('captura guardada: ', filename)
             cv2.imwrite(filename, frame)
 
