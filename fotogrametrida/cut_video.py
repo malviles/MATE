@@ -25,5 +25,5 @@ def capture_frames(video_path):
     capture.release()
     cv2.destroyAllWindows()
 
-video_path = r"D:\manue\Documents\MATE\fotogrametrida\video\tree.mp4"
+video_path = "video/tree.mp4"
 capture_frames(video_path)
