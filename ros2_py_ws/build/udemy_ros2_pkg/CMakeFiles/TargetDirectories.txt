@@ -1,0 +1,9 @@
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/uninstall.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/udemy_ros2_pkg_uninstall.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/test.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/edit_cache.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/rebuild_cache.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/list_install_components.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install/local.dir
+/home/manu/Documents/workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install/strip.dir
